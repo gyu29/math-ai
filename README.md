@@ -1,5 +1,7 @@
 # Complex Equation Solver with Word Problems
 
+https://img.shields.io/badge/gyu29-Zecrilox-blue
+
 This Python class provides a solution for solving complex equations within word problems using the `sympy` library. It allows you to handle equations involving variables, constants like pi and e, and mathematical functions like sqrt, sin, cos, tan, log, and more.
 
 ## Table of Contents
