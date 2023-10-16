@@ -25,13 +25,14 @@ Solving complex equations within word problems can be challenging. This class si
 1. Clone this repository:
 
    ```bash
-   [git clone https://github.com/yourusername/complex-equation-solver.git](https://github.com/gyu29/math-ai)
+   https://github.com/gyu29/math-ai
 
 2. Navigate to the project directory:
    cd complex-equation-solver
 
 ## Usage 
-
+   ```python```
+   
       from complex_equation_solver import WordProblemSolver  
 
       solver = WordProblemSolver()  
