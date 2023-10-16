@@ -28,7 +28,7 @@ Solving complex equations within word problems can be challenging. This class si
    https://github.com/gyu29/math-ai
 
 2. Navigate to the project directory:
-   cd complex-equation-solver
+   cd mathai
 
 ## Usage 
    ```python```
