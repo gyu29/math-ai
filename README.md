@@ -30,22 +30,22 @@ Solving complex equations within word problems can be challenging. This class si
 2. Navigate to the project directory:
    cd complex-equation-solver
 
-## Usage
-from complex_equation_solver import WordProblemSolver
+## Usage  
+from complex_equation_solver import WordProblemSolver  
 
-solver = WordProblemSolver()
+solver = WordProblemSolver()  
 
-problem = "Solve the equation: sqrt(x) + 2*sin(x) - log(x) = 3"
-solution = solver.solve_complex_word_problem(problem)
+problem = "Solve the equation: sqrt(x) + 2*sin(x) - log(x) = 3"  
+solution = solver.solve_complex_word_problem(problem)  
 
-The solve_complex_word_problem method can be used to solve complex equations within word problems. Customize the method for your specific problem requirements.
+The solve_complex_word_problem method can be used to solve complex equations within word problems. Customize the method for your specific problem requirements.  
 
-Contributing
+## Contributing  
 Contributions to this project are welcome. To contribute:
 
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and submit a pull request.
 
-License
+## License  
 This project is licensed under the MIT License - see the LICENSE file for details.
