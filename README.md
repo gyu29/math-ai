@@ -31,7 +31,7 @@ Solving complex equations within word problems can be challenging. This class si
    cd complex-equation-solver
 
 ## Usage 
-   ```python
+
       from complex_equation_solver import WordProblemSolver  
 
       solver = WordProblemSolver()  
